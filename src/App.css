@@ -1,60 +1,55 @@
-.bg-night{
-  background-image: url('./images/3efe0ff7fc1c6680b5deddc88b9eeca9.jpg');
+.bg-night {
+  background-image: url("./images/background.jpg");
   background-size: cover;
   min-height: 100vh;
   background-repeat: no-repeat;
- 
 }
-.text-green{
+.text-green {
   color: #919163;
 }
-.text-moss-green{
-  color: #55551C;
+.text-moss-green {
+  color: #55551c;
 }
 
 .btn-green {
-  background-color: #B7B78D !important;   
-  color: #000 !important;                 
-  border: 1px solid #B7B78D !important;   
+  background-color: #b7b78d !important;
+  color: #000 !important;
+  border: 1px solid #b7b78d !important;
   transition: 0.3s ease;
 }
 
 .btn-green:hover {
-  background-color: #a6a672;   
+  background-color: #a6a672;
   border-color: #a6a672;
   color: #000;
 }
 
 .btn-olive-light {
   background-color: #898957 !important;
-  color: #000 !important; 
+  color: #000 !important;
   border: 1px solid #898957 !important;
   transition: 0.3s ease;
 }
 
 .btn-olive-light:hover {
-  background-color: #757540; 
+  background-color: #757540;
   border-color: #757540;
   color: #000;
 }
 
-
 .btn-olive-dark {
-  background-color: #3A3A28 !important;
-  color: #fff !important; 
-  border: 1px solid #3A3A28 !important;
+  background-color: #3a3a28 !important;
+  color: #fff !important;
+  border: 1px solid #3a3a28 !important;
   transition: 0.3s ease;
 }
 
 .btn-olive-dark:hover {
-  background-color: #2e2e1f; 
+  background-color: #2e2e1f;
   border-color: #2e2e1f;
   color: #fff;
 }
 
 .text-shadow {
-  text-shadow: 
-  0 0 8px #B7B78D,
-  0 0 16px #B7B78D,
-  0 0 24px #B7B78D;
+  text-shadow: 0 0 8px #b7b78d, 0 0 16px #b7b78d, 0 0 24px #b7b78d;
 }
